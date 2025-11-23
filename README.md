@@ -11,19 +11,19 @@ A Python-based open-source music player capable of downloading individual tracks
 # Installation
 ## Any OS
 ### Download Requirements
-    ```bash
+    
     pip install -r requirements.txt
-    ```
+  
 
 ### For "externally-managed-environment" Error
-    ```bash
+    
     pip install -r requirements.txt --break-system-packages
-    ```
+  
 
 ## Run
-    ```bash
+    
     python localmusic.py
-    ```
+  
 
 ## How To Use
 1. **Upon launching, select a Main Directory where you want to store your music.**
@@ -34,11 +34,11 @@ A Python-based open-source music player capable of downloading individual tracks
    
 # Linux Native Integration (.desktop)
 ## Open Terminal:
-    ```bash
+    
     nano ~/.local/share/applications/localmusicplayer.desktop
-    ```
+    
 ## Paste And Edit This:
-    ```bash
+    
      [Desktop Entry]
      Version=1.0
      Type=Application
@@ -49,8 +49,8 @@ A Python-based open-source music player capable of downloading individual tracks
      Categories=Audio;Music;Player;
      Terminal=false
      StartupNotify=true
-    ```
+    
 ### Update the desktop database:
-    ```bash
+    
     update-desktop-database ~/.local/share/applications/
-    ```
+    
