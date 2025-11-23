@@ -3,8 +3,8 @@
 A Python-based open-source music player capable of downloading individual tracks or playlists from YouTube and managing local playlists.
 
 <p float="left">
-  <img src="localMusicPlayer/Images/image1.png" width="45%" />
-  <img src="localMusicPlayer/Images/image2.png" width="45%" /> 
+  <img src="LocalMusicPlayer/Images/image1.png" width="45%" />
+  <img src="LocalMusicPlayer/Images/image2.png" width="45%" /> 
 </p>
 
 
