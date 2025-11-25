@@ -9,7 +9,8 @@ A Python-based open-source music player capable of downloading individual tracks
 
 
 # Installation
-## Any OS
+### You must download FFmpeg for download musics.
+## Linux 
 ### Download Requirements
     
     pip install -r requirements.txt
@@ -24,6 +25,15 @@ A Python-based open-source music player capable of downloading individual tracks
     
     python localmusic.py
   
+## Windows
+
+### Download Requirements
+
+    python -m pip install -r requirements.txt
+
+## Run
+
+        python localmusic.py
 
 ## How To Use
 1. **Upon launching, select a Main Directory where you want to store your music.**
