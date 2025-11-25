@@ -33,7 +33,7 @@ A Python-based open-source music player capable of downloading individual tracks
 
 ## Run
 
-        python localmusic.py
+    python localmusic.py
 
 ## How To Use
 1. **Upon launching, select a Main Directory where you want to store your music.**
